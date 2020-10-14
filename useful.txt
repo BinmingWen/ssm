@@ -1,0 +1,6 @@
+how do you konw how to run it? I will tell you.
+1.run sql, creat mysql data and construtor.
+2.open ecplise, reloading project, import ssm and activiti and shiro jar.
+3.run tomcat you will see login page and login it.
+4.if you can't use it, you can find me with email.
+5.oklllllllllllll
